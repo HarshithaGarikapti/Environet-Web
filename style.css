@@ -64,7 +64,7 @@ ul {
 header {
   width: 100%;
   height: 100vh;
-  background-image: url("C:/Users/srega/Dropbox/PC/Downloads/HARSHITHA/Enviroment website/images/bg.png");
+  background-image: URL(bg.png)
   background-position: bottom;
   background-size: cover;
   display: flex;
@@ -164,7 +164,7 @@ p {
 .sec3 {
   width: 100%;
   height: 100vh;
-  background-image: url("C:/Users/srega/Dropbox/PC/Downloads/HARSHITHA/Enviroment website/images/sec3img.png");
+  background-image: url(sec3img.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
