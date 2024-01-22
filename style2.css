@@ -73,7 +73,7 @@ header {
   height: 60vh;
   margin-left: 16.6vh;
   margin-top: 20.2vh;
-  background-image: url("C:/Users/srega/Dropbox/PC/Downloads/HARSHITHA/Enviroment website/images/protect1.png");
+  background-image: URL("protect1.png");
   background-position: center;
   background-size: cover;
   display: flex;
