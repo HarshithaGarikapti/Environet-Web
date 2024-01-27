@@ -71,7 +71,7 @@ ul {
 header {
   height: 75vh;
   margin-top: 150px;
-  background-image: url("whygogreen.jpg");
+  background-image: URL("whygogreen.jpg");
   background-position: center;
   background-size: cover;
   display: flex;
