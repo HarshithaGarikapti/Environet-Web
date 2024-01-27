@@ -25,7 +25,8 @@ ul {
   justify-content:center;
   padding: 5px;
   color:  white;
-  background-color: #c2c88d;
+  background-color: #c6c9a5;
+;
 }
 .nav-links .li ul.dropdown li {
   display: block;
